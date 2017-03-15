@@ -2,7 +2,7 @@
 # buzhou
 
 <!-- toc -->
-* [环境](# buzhou)
+* [环境](#buzhou)
  * [准备工作](#准备工作)
  * [Install](#test2)
 <!-- toc stop -->
