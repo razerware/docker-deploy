@@ -1,17 +1,9 @@
 # Docker for ubuntu 16.04安装步骤
 
 * [Docker for ubuntu 16.04安装步骤](#docker-for-ubuntu-1604安装步骤)
-	* [准备工作](#准备工作)
-		* [1.Install packages to allow apt to use a repository over HTTPS:](#1install-packages-to-allow-apt-to-use-a-repository-over-https)
-		* [2.Add Docker’s official GPG key:](#2add-dockers-official-gpg-key)
-		* [3.Verify that the key fingerprint is 9DC8 5822 9FC7 DD38 854A E2D8 8D81 803C 0EBF CD88.](#3verify-that-the-key-fingerprint-is-9dc8-5822-9fc7-dd38-854a-e2d8-8d81-803c-0ebf-cd88)
-		* [4.Use the following command to set up the stable repository.](#4use-the-following-command-to-set-up-the-stable-repository)
+	* [准备工作](#准备工作)		
 	* [Install docker](#install-docker)
-		* [1.Update the apt package index.](#1update-the-apt-package-index)
-		* [2.Install the latest version of Docker, or go to the next step to install a specific version. Any existing installation of Docker is replaced.](#2install-the-latest-version-of-docker-or-go-to-the-next-step-to-install-a-specific-version-any-existing-installation-of-docker-is-replaced)
-		* [3.On production systems, you should install a specific version of Docker instead of always using the latest. This output is truncated. List the available versions. For Docker EE customers, use docker-ee where you see docker-ce.](#3on-production-systems-you-should-install-a-specific-version-of-docker-instead-of-always-using-the-latest-this-output-is-truncated-list-the-available-versions-for-docker-ee-customers-use-docker-ee-where-you-see-docker-ce)
-		* [4.安装阿里云加速器，地址登陆阿里云可以找到（](#4安装阿里云加速器地址登陆阿里云可以找到)
-		* [5.私有镜像配置](#5私有镜像配置)
+		
 
 ## 准备工作
 
