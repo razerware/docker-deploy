@@ -2,7 +2,7 @@
 
 <!-- toc -->
 * [准备工作](#准备工作)
-* [Install docker](#Install docker)
+* [Install](#Install docker)
 <!-- toc stop -->
 
 ## 准备工作
