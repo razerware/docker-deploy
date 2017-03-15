@@ -1,13 +1,13 @@
 # Docker for ubuntu 16.04安装步骤
-# buzhou
+# buzhou 1
 
 <!-- toc -->
-* [环境](#buzhou)
+* [环境](#buzhou 1)
  * [准备工作](#准备工作)
- * [Install](#test2)
+ * [Install](#test 2)
 <!-- toc stop -->
 
-## test2
+## test 2
 ## 准备工作
 
 ### 1.Install packages to allow apt to use a repository over HTTPS:
