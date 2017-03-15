@@ -1,6 +1,6 @@
 # Docker for ubuntu 16.04安装步骤
 
-[toc]
+[TOC]
 
 ## 准备工作
 
