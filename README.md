@@ -1,8 +1,8 @@
 # Docker for ubuntu 16.04安装步骤
 
 <!-- toc -->
-* [准备工作](##准备工作)
-* [Install docker](##Install docker)
+* 准备工作](##准备工作)
+* Install docker](##Install docker)
 <!-- toc stop -->
 
 ## 准备工作
