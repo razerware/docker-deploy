@@ -3,8 +3,8 @@
 
 <!-- toc -->
 * [环境](#buzhou 1)
- * [准备工作](#准备工作)
- * [Install](#test 2)
+  * [准备工作](#准备工作)
+  * [Install](#test 2)
 <!-- toc stop -->
 
 ## test 2
