@@ -1,9 +1,9 @@
 # Docker for ubuntu 16.04安装步骤
 
 <!-- toc -->
-* [环境](# Docker for ubuntu 16.04安装步骤)
-  * [架构](## 准备工作)
-  * [网络](## Install docker)
+* [环境](#Docker for ubuntu 16.04安装步骤)
+  * [架构](##准备工作)
+  * [网络](##Install docker)
 
 <!-- toc stop -->
 
