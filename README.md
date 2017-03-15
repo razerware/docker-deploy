@@ -2,8 +2,8 @@
 
 <!-- toc -->
 * [环境](#环境)
-  * [架构](#准备工作)
-  * [网络](#install docker)
+  * [架构](##准备工作)
+  * [网络](##install docker)
 
 <!-- toc stop -->
 
